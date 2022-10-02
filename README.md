@@ -7,6 +7,12 @@ practicing how to use React CDN with simple HTML
 - React CDN (https://reactjs.org/docs/cdn-links.html)
 - Bable (https://babeljs.io/setup#installation)
 
+# Unlock Skills
+
+- Using React CDN in single HTML
+- Using ReactDOM and React Component
+- Using state variable to add data dinamically e.g. `this.state.name`
+
 # How to Use
 
 1. clone the repo
