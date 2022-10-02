@@ -9,9 +9,10 @@ practicing how to use React CDN with simple HTML
 
 # Unlock Skills
 
-- Using React CDN in single HTML
-- Using ReactDOM and React Component
+- Using **React CDN** in single HTML
+- Using **ReactDOM** and **React Component**
 - Using state variable to add data dinamically e.g. `this.state.name`
+- Using event handler i.e. `onClick`, `onChange`, `onSubmit`, `onMouseOver`, `onCopy`
 
 # How to Use
 
